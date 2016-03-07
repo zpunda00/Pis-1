@@ -8,5 +8,9 @@ namespace piss1
 {
     class Class1
     {
+        public void klasica()
+        {
+            
+        }
     }
 }
