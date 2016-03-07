@@ -11,6 +11,7 @@ namespace piss1
         static void Main(string[] args)
         {
             Console.WriteLine("hehehe");
+            Console.WriteLine("Strina ti hehehe");
         }
     }
 }
